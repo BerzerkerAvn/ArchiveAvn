@@ -5,11 +5,11 @@
 1. [Comment tout a commencé](#Comment-tout-a-commencé)
 2. [Qui a participé, quelles sont leurs revendications]
 3. [Comment se sont passés les manifestations dans différentes régions de France/Belgique]
-3.1 [France]
+ [France]
     
     
  
- 3.2. [Belgique]
+. [Belgique]
  
 4. [Comment ont réagi les politiques]
 
