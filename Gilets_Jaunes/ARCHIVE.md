@@ -3,65 +3,11 @@
 ## Table des matières
 
 1. [Comment tout a commencé](#Comment-tout-a-commencé)
-2. 
-3. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+2. Qui a participé, quelles sont leurs revendications
+3. Comment se sont passés les manifestations dans différentes régions de france/belgique
+4. Comment ont réagi les politiques
+5. Comment ont réagi les autorités (crs et autres) dans différentes régions de france/belgique
+6. 
 
 # Comment tout a commencé
 
