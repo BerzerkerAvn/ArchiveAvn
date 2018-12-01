@@ -24,11 +24,15 @@
 
 
 ## Comment se sont passés les manifestations dans différentes régions de France/Belgique
+
+
 ### France
+
 #### Paris
 
 
 ### Belgique
+
 #### Bruxelles
 
 
