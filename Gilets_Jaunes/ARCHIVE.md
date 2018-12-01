@@ -30,7 +30,7 @@
 
 Un peu partout en france, les barrages d'autoroutes sont ouverts par les manifestants, les rendants gratuits.
 
-[barrage d'autoroute ouvert](photos/019.jpg?raw=true)
+[barrage d'autoroute ouvert](https://raw.githubusercontent.com/BerzerkerAvn/ArchiveAvn/master/Gilets_Jaunes/photos/019.jpg)
 
 #### Paris
 
