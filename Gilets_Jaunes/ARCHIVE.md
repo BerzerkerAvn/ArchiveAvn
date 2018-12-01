@@ -4,18 +4,16 @@
 
 1. [Comment tout a commencé](#Comment-tout-a-commencé)
 2. [Qui a participé, quelles sont leurs revendications](#Qui)
-3. [Comment se sont passés les manifestations dans différentes régions de France/Belgique](#Comment)
-3.1. [France](#France)
-    
-    
- 
-. [Belgique]
- 
-4. [Comment ont réagi les politiques]
+3. [Comment se sont passés les manifestations dans différentes régions de France/Belgique](#Comment)  
+3.1. [France](#France)  
+3.1.1 [Paris](#Paris)  
+3.2. [Belgique](#Belgique)  
+3.2.1. [Bruxelles](#Bruxelles)
+4. [Comment ont réagi les politiques](#Politique)  
+5. [Comment ont réagi les autorités (crs et autres) dans différentes régions de France/Belgique](#Autorités)  
+5.1. [France](#France)  
 
-5. [Comment ont réagi les autorités (crs et autres) dans différentes régions de France/Belgique]
-
-6. 
+6. [Autre](#Autre)  
 
 ## Comment tout a commencé
 
@@ -39,7 +37,3 @@
 
 
 ## Comment ont réagi les autorités (crs et autres) dans différentes régions de France/Belgique
-
-
-3. [Communication](#communication)  
-3.1. [Desktop Client](#desktop-client)  
