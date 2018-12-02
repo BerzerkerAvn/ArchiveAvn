@@ -29,7 +29,7 @@ L'élément déclencheur serait une [pétition sur change.org](https://www.chang
 > Au départ centrée sur la hausse des prix du carburant automobile (elle-même liée pour partie à l'augmentation de la taxe sur les produits pétroliers), la contestation s'élargit rapidement à d’autres revendications, portant sur le pouvoir d'achat des classes moyennes et populaires, notamment rurales et périurbaines, ou encore la démission du président de la République française, Emmanuel Macron.
 > À la manière d'une jacquerie, cette mobilisation trouve son origine dans la diffusion sur les réseaux sociaux d’appels de citoyens à manifester. Présentée par les médias comme spontanée et apolitique, elle s'organise autour d'une première manifestation nationale le 17 novembre 2018, puis de prolongements. À l'issue des protestations, on compte deux morts et des centaines de blessés ainsi que d'importants dégâts matériels, en particulier à Paris du fait de casseurs. Des centaines de manifestants sont arrêtés.
 > Le mouvement, qui reçoit le soutien de la majorité de l’opinion publique, suscite l’attention de la classe politique. Il est ouvertement soutenu par plusieurs dirigeants de partis politiques d’opposition (notamment Marine Le Pen, Jean-Luc Mélenchon, Laurent Wauquiez et Jean Lassalle). 
-> Wikipedia 02/12/18
+> -Wikipedia 02/12/18
 
 
 ## Qui a participé, quelles sont leurs revendications
