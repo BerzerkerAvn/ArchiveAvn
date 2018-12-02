@@ -34,7 +34,7 @@ Un peu partout en france, les barrages d'autoroutes sont ouverts par les manifes
 
 #### Paris
 
-C'est sur paris que l'évènement a pris le plus d'ampleur **ajouter source**, des voitures ont été [brûlés et retournés](photos/035.png), [d'autres objets ont étés incendiés](photos/032.png), les CRS ont utilisés des bombes lacrymogènes, canons a eau et de flashballs sur des civils (casseurs ou pas) selon les témoignages d'[Aekar](https://github.com/BerzerkerAvn/ArchiveAvn/blob/master/Gilets_Jaunes/t%C3%A9moignages.md#aekar) et de [DuGuesclin](https://github.com/BerzerkerAvn/ArchiveAvn/blob/master/Gilets_Jaunes/t%C3%A9moignages.md#DuGuesclin).
+C'est sur paris que l'évènement a pris le plus d'ampleur **ajouter source**, des voitures ont été [brûlés et retournés](photos/035.png), [d'autres objets ont étés incendiés](photos/032.png).
 
 ### Belgique
 
@@ -45,9 +45,10 @@ C'est sur paris que l'évènement a pris le plus d'ampleur **ajouter source**, d
 
 
 
-## Comment ont réagi les autorités (crs et autres) dans différentes régions de France/Belgique
+## Comment ont réagi les autorités (CRS et autres) dans différentes régions de France/Belgique
 
 ### France
 
 #### Paris
 
+Les CRS ont utilisés des bombes lacrymogènes, canons a eau et de flashballs sur des civils (casseurs ou pas) selon les témoignages d'[Aekar](https://github.com/BerzerkerAvn/ArchiveAvn/blob/master/Gilets_Jaunes/t%C3%A9moignages.md#aekar) et de [DuGuesclin](https://github.com/BerzerkerAvn/ArchiveAvn/blob/master/Gilets_Jaunes/t%C3%A9moignages.md#DuGuesclin).
