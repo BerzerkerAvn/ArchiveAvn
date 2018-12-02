@@ -34,6 +34,7 @@ Un peu partout en france, les barrages d'autoroutes sont ouverts par les manifes
 
 #### Paris
 
+C'est sur paris que l'évènement a pris le plus d'ampleur **ajouter source**, 
 
 ### Belgique
 
@@ -50,4 +51,3 @@ Un peu partout en france, les barrages d'autoroutes sont ouverts par les manifes
 
 #### Paris
 
-> "J'ai participé à celle d'aujourd'hui à Paris, donc je parlerais uniquement de ça. Les CRS ont bloqué toutes les rues menant à l'arc de Triomphe et les Champs Élysées, ensuite ils gazaient tout ceux qui essayaient d'aller aux champs avec des bombes lacrymogènes, et ont même utilisé les flashballs sur certaines personnes. Il y en avait même sur les toits des bâtiments et ils nous arrosaient de bombes lacrymos avec les troupes à terre, bref des sales chiens du gouvernement qui visaient tout le monde pas que les casseurs." - Aekar
