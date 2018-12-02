@@ -17,6 +17,12 @@
 
 ## Comment tout a commencé
 
+*a confirmer*
+L'élément déclencheur serait une [pétition sur change.org](https://www.change.org/p/pour-une-baisse-des-prix-%C3%A0-la-pompe-essence-diesel) suite a laquelle des vidéos auraient fait énormément de vues:
+
+![video de Jacline Mouraud](https://www.youtube.com/watch?v=06pOTxTvnBU)
+
+![video de la france en colère](https://www.youtube.com/watch?v=SbwXafq8suI)
 
 
 ## Qui a participé, quelles sont leurs revendications
@@ -40,7 +46,7 @@ C'est sur paris que l'évènement a pris le plus d'ampleur **ajouter source**, d
 
 #### Bruxelles
 
-À bruxelles aussi il y a eu de violents affrontements voir [cet article](https://www.rtl.be/info/regions/bruxelles/direct-gilets-jaunes-a-bruxelles-nous-sommes-a-arts-loi--1081254.aspx) ou [ce pdf](https://github.com/BerzerkerAvn/ArchiveAvn/blob/master/Gilets_Jaunes/sources/www-rtl-be-info-regions-bruxelles-direct-gilets-jaunes-a-bruxelles-nous-sommes-a-arts-loi--1081254-aspx.pdf)
+À bruxelles aussi il y a eu de violents affrontements, des pavés ont étés lancés, des incendés déclenchés et des feux de signalisation arrachés et au moins un véhicule de police a été renversé [cet article](https://www.rtl.be/info/regions/bruxelles/direct-gilets-jaunes-a-bruxelles-nous-sommes-a-arts-loi--1081254.aspx) ou [ce pdf](https://github.com/BerzerkerAvn/ArchiveAvn/blob/master/Gilets_Jaunes/sources/www-rtl-be-info-regions-bruxelles-direct-gilets-jaunes-a-bruxelles-nous-sommes-a-arts-loi--1081254-aspx.pdf)
 
 ## Comment ont réagi les politiques
 
