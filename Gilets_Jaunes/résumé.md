@@ -18,6 +18,7 @@
 ## Comment tout a commencé
 
 *a confirmer*
+
 L'élément déclencheur serait une [pétition sur change.org](https://www.change.org/p/pour-une-baisse-des-prix-%C3%A0-la-pompe-essence-diesel) suite a laquelle des vidéos auraient fait énormément de vues:
 
 ![video de Jacline Mouraud](https://www.youtube.com/watch?v=06pOTxTvnBU)
