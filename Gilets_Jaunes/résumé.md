@@ -40,6 +40,7 @@ C'est sur paris que l'évènement a pris le plus d'ampleur **ajouter source**, d
 
 #### Bruxelles
 
+À bruxelles aussi il y a eu de violents affrontements voir [cet article](https://www.rtl.be/info/regions/bruxelles/direct-gilets-jaunes-a-bruxelles-nous-sommes-a-arts-loi--1081254.aspx) ou [ce pdf](https://github.com/BerzerkerAvn/ArchiveAvn/blob/master/Gilets_Jaunes/sources/www-rtl-be-info-regions-bruxelles-direct-gilets-jaunes-a-bruxelles-nous-sommes-a-arts-loi--1081254-aspx.pdf)
 
 ## Comment ont réagi les politiques
 
