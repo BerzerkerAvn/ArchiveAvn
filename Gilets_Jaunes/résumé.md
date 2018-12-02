@@ -30,11 +30,11 @@
 
 Un peu partout en france, les barrages d'autoroutes sont ouverts par les manifestants, les rendants gratuits.
 
-![barrage d'autoroute ouvert](https://raw.githubusercontent.com/BerzerkerAvn/ArchiveAvn/master/Gilets_Jaunes/photos/019.jpg)
+![barrage d'autoroute ouvert](/photos/019.jpg)
 
 #### Paris
 
-C'est sur paris que l'évènement a pris le plus d'ampleur **ajouter source**, 
+C'est sur paris que l'évènement a pris le plus d'ampleur **ajouter source**, des voitures ont été [brûlés](photos/035.png) et retournés, [d'autres objets ont étés incendiés](photos/, les CRS ont utilisés des
 
 ### Belgique
 
